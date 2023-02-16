@@ -1,6 +1,6 @@
 # Telechom-churn-prediction_advanced_ml
 ![igor-6mFcQOOi5QY-unsplash](https://user-images.githubusercontent.com/114215128/219290692-34b1f53d-1e0a-4a9e-8de2-ee836a2b9832.jpg)
-Photo by Igor on Unsplash
+                                                                                                           Photo by Igor on Unsplash
 
 
 
